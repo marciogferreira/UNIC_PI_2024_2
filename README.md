@@ -59,7 +59,7 @@ Este projeto tem como objetivo ensinar os conceitos fundamentais de **Programaç
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd repositorio-programacao-internet
+   cd UNIC_PI_2024_2
    ```
 
 3. Siga as instruções em cada pasta para acompanhar as aulas e realizar os exercícios práticos.
